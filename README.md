@@ -1,4 +1,4 @@
-# Project Title: NYC Airbnb Data Analysis
+#  NYC Airbnb Data Analysis
 This project analyzes over 48,000 Airbnb listings in New York City to provide data-driven insights on pricing, demand, and host behavior. The analysis is designed to help new and existing hosts make smarter decisions to improve their bookings and revenue.
 
 ### Key Findings & Insights
