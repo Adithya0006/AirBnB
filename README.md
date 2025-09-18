@@ -31,5 +31,5 @@ Based on this analysis, a new host can follow a data-driven strategy for success
 - Pandas
 - Matplotlib
 - Seaborn
+- Jupyter Notebook
 
-Jupyter Notebook
