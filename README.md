@@ -27,7 +27,7 @@ Based on this analysis, a new host can follow a data-driven strategy for success
 - **Prioritize a 5-Star Experience:** To be successful, your primary goal should be to earn high-quality reviews. This is more important than simply accumulating a high number of bookings, as a strong star rating is what allows you to stand out and justify a higher price.
 
 For detailed Summary Report: [**Click here to open the summary (PDF)**](Reports/Summary.pdf)
-For Results of Analysis: [](Notebooks/results_and_conclusion.ipynb)
+For Results of Analysis: [**Click here (ipynb)**](Notebooks/results_and_conclusion.ipynb)
 
 **Technologies Used**
 - Python
